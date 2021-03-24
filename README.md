@@ -1,2 +1,2 @@
 # hello-world
-Amet's trying to learn something new.
+Amet trying to learn something new.
